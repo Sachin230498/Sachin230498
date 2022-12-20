@@ -34,14 +34,18 @@
 
 📧 Email - sachinpathe123b@gmail.com
 
-📄 Know about my skills  [Resume](https://drive.google.com/file/d/17BV_HQJ3figOFgRzglo36vVjQupMG7L6/view?usp=sharing) 
+📄 Know about my skills  [Resume](https://drive.google.com/file/d/1krnatVp6CSAvIrrhg03FwWdjwRqokRsb/view?usp=sharing) 
 
 
 <p><a href="">My Portfolio </a></p>
 
 
 ## 🌐 Socials
-[[LinkedIn] (https://www.linkedin.com/in/sachin-pathe-2a2b231a0/)
+
+#Linkedin
+<a href="https://www.linkedin.com/in/sachin-pathe-2a2b231a0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/satyaprakash-singh-56a7b6149" height="30" width="40" /></a>
+
+
 
 <br/>
 

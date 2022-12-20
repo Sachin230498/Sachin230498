@@ -41,7 +41,7 @@
 
 
 ## 🌐 Socials
-[![LinkedIn](https://www.linkedin.com/in/sachin-pathe-2a2b231a0/)
+[[LinkedIn] (https://www.linkedin.com/in/sachin-pathe-2a2b231a0/)
 
 <br/>
 
